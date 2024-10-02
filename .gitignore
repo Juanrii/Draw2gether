@@ -8,6 +8,7 @@ __pycache__/
 *.pyo
 *.pyd
 
+
 # Archivos de logs, bases de datos o resultados
 *.log
 *.sqlite3
@@ -19,3 +20,4 @@ __pycache__/
 *.egg-info/
 dist/
 build/
+.quickdrawcache/
